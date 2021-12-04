@@ -1,0 +1,10 @@
+/Users/nicolaskevingarreta/Dev/ClipStash/clipstash/target/rls/debug/deps/getrandom-2c5655b9da0276b4.rmeta: /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/lib.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util_libc.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/use_file.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/macos.rs
+
+/Users/nicolaskevingarreta/Dev/ClipStash/clipstash/target/rls/debug/deps/getrandom-2c5655b9da0276b4.d: /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/lib.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util_libc.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/use_file.rs /Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/macos.rs
+
+/Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/lib.rs:
+/Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/error.rs:
+/Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util.rs:
+/Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/util_libc.rs:
+/Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/use_file.rs:
+/Users/nicolaskevingarreta/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.3/src/macos.rs:
